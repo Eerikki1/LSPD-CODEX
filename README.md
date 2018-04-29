@@ -1,2 +1,0 @@
-# LSPD-CODEX
-calculator
